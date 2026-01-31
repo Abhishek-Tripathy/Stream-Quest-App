@@ -1,7 +1,7 @@
 export const TOPICS = [
   {
     id: "1",
-    title: "Intro to Blender",
+    title: "Nature Documentary",
     description: "Big Buck Bunny - 3D Animation Basics.",
     thumbnail:
       "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
