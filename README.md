@@ -10,6 +10,10 @@ Stream Quest is a technical demonstration app built with **React Native** and **
 
 This project demonstrates proficiency in mobile development, file system management, webview integration, and modern UI/UX practices.
 
+## 📥 Download APK
+
+**[Download Android APK](https://drive.google.com/file/d/1GvLjKcQvhGNtaq0L-osjmQH7lLrVzTbd/view?usp=drive_link)**
+
 ## ✨ Features
 
 ### 🎥 Interactive Video Learning
