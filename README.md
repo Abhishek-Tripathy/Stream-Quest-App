@@ -85,7 +85,7 @@ The video player uses a `ref` to monitor playback status (`onPlaybackStatusUpdat
 app/
 ├── (tabs)/          # Main tab navigation (Video, Games)
 │   ├── index.tsx    # Video Learning Home
-│   └── explore.tsx  # Offline Games Store
+│   └── games.tsx    # Offline Games Store
 ├── video/
 │   └── [id].tsx     # Interactive Video Player Screen
 ├── game/
